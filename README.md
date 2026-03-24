@@ -47,7 +47,7 @@ It assumes that you have python installed and are using Anaconda.
 
 ```  
 # Clone repo and 
-git clone https://github.com/emilschleder/DaMorph
+git clone https://github.com/m3o0/DaMorph
 cd DaMorph
 
 # Setup environment 
